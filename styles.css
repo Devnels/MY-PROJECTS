@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+}
+.nav-items {
+   list-style: none;
+}
+.nav-items li a{
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.faq-p p{
+  margin-left: 150px;
+}
+.faq-p h6 {
+    margin-left: 180px;
+}
+ .bg-m {
+    background-color:rgba(128, 128, 128, 0.267);
+ }
+
+ .bg-img{
+    background-color: #0C0705;
+ }
+ .bg-footer{
+   background-color:rgb(128, 0, 115);
+ }
