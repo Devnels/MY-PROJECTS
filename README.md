@@ -6,17 +6,14 @@
 
 ## Technologies Used
 
-* _html_
+* _Html_
 * _Css_
 * _Bootstrap 4.5.3_
 * _Git_
 
 ## Description
 
-_This is just a landing page, it is not functional but you can go through varios sections of the page_
-
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+ _This is a landing page for college apllication portal, it is not functional but you can go through various sections of the page_
 
 ## Known Bugs
 
@@ -29,4 +26,4 @@ _MIT license_
 
 ## Contact Information
 
-_Nelsonnadghe98@gmail.com_
+_Nelsonnadghe11@gmail.com_
